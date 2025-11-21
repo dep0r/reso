@@ -1,3 +1,4 @@
 Berisi ide saya saat PKM nanti
 - Proyek Web GRAPTIK
 - Proyek Time Schedule
+- AI Model

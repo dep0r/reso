@@ -1,8 +1,8 @@
 Just some random file with my thoughts innit
 - Belajar hal baru apapun sekali dalam sehari
-- Target Python dan CPP selesai
 - CP
 - Machine Learning
 - CTF
 - Website GRAPTIK
 - Portofolio(?)
+- Essay

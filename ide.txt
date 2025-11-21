@@ -1,2 +1,3 @@
 Berisi ide saya saat PKM nanti
-saat ini belum ada
+- Proyek Web GRAPTIK
+- Proyek Time Schedule

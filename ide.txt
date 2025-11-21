@@ -1,4 +1,7 @@
 Berisi ide saya saat PKM nanti
 - Proyek Web GRAPTIK
+  *Web Porto aja
+  *JS
 - Proyek Time Schedule
+  *Web app
 - AI Model

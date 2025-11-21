@@ -5,3 +5,4 @@ Just some random file with my thoughts innit
 - Machine Learning
 - CTF
 - Website GRAPTIK
+- Portofolio(?)

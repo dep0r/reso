@@ -5,3 +5,4 @@ Berisi ide saya saat PKM nanti
 - Proyek Time Schedule
   *Web app
 - AI Model
+
